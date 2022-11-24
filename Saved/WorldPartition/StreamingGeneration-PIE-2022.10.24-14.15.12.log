@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=800.000 Y=-400.000 Z=0.000), Max=(X=2600.000 Y=3800.000 Z=400.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/My3DPlatformer/Maps/Level01
+   |  ActorDescs:
+   |      - Guid:793D529947BD9EAECFF571813923C5C1 Class:StaticMeshActor Name:StaticMeshActor_UAID_309C23CD7A94FE4201_1763048568 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=800.000 Y=-400.000 Z=0.000), Max=(X=2600.000 Y=3800.000 Z=400.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:9B5E94CB4D3B91E839ADE3B69437BD92 Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
